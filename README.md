@@ -1,2 +1,2 @@
 # Data_Analytics
-Data Analytics Repo for Excel, Power BI, Tableau and MySQL
+Data Analytics Repo for Excel, python, and MySQL
